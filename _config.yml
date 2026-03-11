@@ -1,0 +1,33 @@
+title: z/TPF VS Code Extension
+description: Official documentation for the z/TPF VS Code extension - bringing IBM z/TPF development to modern editors
+theme: just-the-docs
+
+url: https://IBM.github.io/ztpf-development
+
+# Navigation structure
+nav_enabled: true
+nav_sort: case_insensitive
+
+# Search functionality
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# Footer content
+footer_content: "Copyright &copy; 2026. Distributed under the <a href=\"https://github.com/JoshuaRichey/justthedocstemp/blob/main/LICENSE\">MIT License</a>."
+
+# Color scheme
+color_scheme: light
+
+# External links
+aux_links:
+  "View on GitHub": "https://github.com/IBM/ztpf-development"
+  "VS Code Marketplace": "https://marketplace.visualstudio.com/items?itemName=JoshuaRichey.ztpf-vscode"
+
+aux_links_new_tab: true
