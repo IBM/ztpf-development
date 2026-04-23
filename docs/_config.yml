@@ -20,7 +20,7 @@ search:
   button: false
 
 # Footer content
-footer_content: "Copyright &copy; 2026. Distributed under the <a href=\"https://github.com/JoshuaRichey/justthedocstemp/blob/main/LICENSE\">MIT License</a>."
+footer_content: "Copyright &copy; 2026. Distributed under the <a href=\"https://github.com/IBM/ztpf-development/blob/main/LICENSE\">MIT License</a>."
 
 # Color scheme
 color_scheme: light
@@ -28,6 +28,6 @@ color_scheme: light
 # External links
 aux_links:
   "View on GitHub": "https://github.com/IBM/ztpf-development"
-  "VS Code Marketplace": "https://marketplace.visualstudio.com/items?itemName=JoshuaRichey.ztpf-vscode"
+  "VS Code Marketplace": "https://marketplace.visualstudio.com/items?itemName=IBM.ztpf-development"
 
 aux_links_new_tab: true
