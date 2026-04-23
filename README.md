@@ -9,7 +9,7 @@ Any [issues](https://github.com/IBM/ztpf-development/issues) reported directly o
 ## License
 
 - The license for IBM z/TPF Development can be found in the [LICENSE file](https://github.com/IBM/ztpf-development/blob/main/product/LICENSE) in the product folder in this repository.
-- The notices for IBM z/TPF Development can be found in the [NOTICE file](https://github.com/IBM/ztpf-development/blob/main/product/NOTICE) in the product folder in this repository.
+- The notices for IBM z/TPF Development can be found in the [NOTICES file](https://github.com/IBM/ztpf-development/blob/main/product/NOTICES) in the product folder in this repository.
 - All other files managed in this repository are intended for the purpose of presenting the [product documentation web site](https://IBM.github.io/ztpf-development). The license for these files can be found in the [LICENSE file](https://github.com/IBM/ztpf-development/blob/main/LICENSE) in the root folder of this repository.
 
 ## Core Capabilities
