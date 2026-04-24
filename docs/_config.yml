@@ -1,5 +1,5 @@
-title: z/TPF VS Code Extension
-description: Official documentation for the z/TPF VS Code extension - bringing IBM z/TPF development to modern editors
+title: z/TPF Visual Studio Code Extension
+description: Official documentation for the z/TPF Visual Studio Code extension - bringing IBM z/TPF development to modern editors
 theme: just-the-docs
 
 url: https://IBM.github.io/ztpf-development
@@ -28,6 +28,6 @@ color_scheme: light
 # External links
 aux_links:
   "View on GitHub": "https://github.com/IBM/ztpf-development"
-  "VS Code Marketplace": "https://marketplace.visualstudio.com/items?itemName=IBM.ztpf-development"
+  "Visual Studio Code Marketplace": "https://marketplace.visualstudio.com/items?itemName=IBM.ztpf-development"
 
 aux_links_new_tab: true

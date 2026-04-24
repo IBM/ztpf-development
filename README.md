@@ -1,6 +1,6 @@
 # IBM z/TPF Development
 
-IBM z/TPF Development is an extension for Visual Studio Code that provides a set of tools to develop programs on IBM z/TPF.
+IBM z/TPF Development is an extension for Visual Studio Code that provides a set of tools to assit with program development for IBM z/TPF.
 
 ## Issues
 
@@ -11,6 +11,12 @@ Any [issues](https://github.com/IBM/ztpf-development/issues) reported directly o
 - The license for IBM z/TPF Development can be found in the [LICENSE file](https://github.com/IBM/ztpf-development/blob/main/product/LICENSE) in the product folder in this repository.
 - The notices for IBM z/TPF Development can be found in the [NOTICES file](https://github.com/IBM/ztpf-development/blob/main/product/NOTICES) in the product folder in this repository.
 - All other files managed in this repository are intended for the purpose of presenting the [product documentation web site](https://IBM.github.io/ztpf-development). The license for these files can be found in the [LICENSE file](https://github.com/IBM/ztpf-development/blob/main/LICENSE) in the root folder of this repository.
+
+## Privacy
+
+[IBM's General Privacy Statement](https://www.ibm.com/privacy) applies to this software.
+
+No telemetry or usage data collection is currently performed by this extension. For details on how to [disable telemetry](https://code.visualstudio.com/docs/getstarted/telemetry#_disable-telemetry-reporting), see the Visual Studio Code documentation.
 
 ## Core Capabilities
 
@@ -46,7 +52,7 @@ Each pipeline task can be executed independently:
 
 ### 3. Integrated Testing Framework
 
-- **Test Explorer Integration** - z/TPF automated tests appear in VS Code's native Testing view
+- **Test Explorer Integration** - z/TPF automated tests appear in Visual Studio Code's native Testing view
 - **Test Discovery** - Automatically retrieves tests from z/TPF host based on configuration
 - **Test Execution** - Run individual tests, namespaces, or entire test suites
 - **Test Refresh** - Manual and automatic test list updates

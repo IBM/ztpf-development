@@ -6,7 +6,7 @@ nav_order: 2
 
 # Installation Guide
 
-This guide will walk you through installing the z/TPF VS Code Extension.
+This guide will walk you through installing the IBM z/TPF Development Visual Studio Code Extension.
 
 {: .no_toc }
 
@@ -30,30 +30,24 @@ Before installing the extension, ensure you have:
 
 ## Installation Methods
 
-### Method 1: Install from VS Code Marketplace (Recommended)
+### Method 1: Install from the configured marketplace (Visual Studio Code / OpenVSX)
 
 1. Open Visual Studio Code
 2. Click on the **Extensions** icon in the Activity Bar (or press `Ctrl+Shift+X` / `Cmd+Shift+X`)
-3. Search for **"z/TPF"** in the search bar
-4. Click **Install** on the z/TPF VS Code Extension
-5. Reload VS Code when prompted
+3. Search for **"IBM z/TPF Development"** in the search bar
+4. Click **Install** on the IBM z/TPF Development Visual Studio Code Extension
+5. Reload Visual Studio Code when prompted
 
 ### Method 2: Install from VSIX File
 
-If you have a `.vsix` file:
+If you have a `.vsix` file either from the [OpenVSX Registry](https://open-vsx.org/) or the z/TPF download page (https://www.ibm.com/support/pages/node/618267):
 
 1. Open Visual Studio Code
 2. Go to **Extensions** view (`Ctrl+Shift+X` / `Cmd+Shift+X`)
 3. Click the **"..."** menu at the top of the Extensions view
 4. Select **"Install from VSIX..."**
 5. Navigate to and select the `.vsix` file
-6. Reload VS Code when prompted
-
-### Method 3: Install via Command Line
-
-```bash
-code --install-extension JoshuaRichey.ztpf-vscode
-```
+6. Reload Visual Studio Code when prompted
 
 ---
 
@@ -62,66 +56,17 @@ code --install-extension JoshuaRichey.ztpf-vscode
 After installation, verify the extension is active:
 
 1. Open the **Extensions** view
-2. Search for "z/TPF" in the installed extensions
-3. You should see the extension listed with a green checkmark
-4. Check the status bar for z/TPF indicators
-
----
-
-## Initial Configuration
-
-After installation, you'll need to configure the extension:
-
-1. Open VS Code Settings (`Ctrl+,` / `Cmd+,`)
-2. Search for "z/TPF"
-3. Configure the following settings:
-   - **Host**: Your z/TPF system hostname or IP address
-   - **Port**: Connection port (default: 22)
-   - **Username**: Your z/TPF username
-   - **Workspace Path**: Remote workspace directory
-
-See the [Configuration Guide](configuration.md) for detailed setup instructions.
-
----
-
-## Troubleshooting
-
-### Extension Not Loading
-
-If the extension doesn't load:
-
-1. Check the **Output** panel (`View > Output`)
-2. Select **"z/TPF Extension"** from the dropdown
-3. Review any error messages
-4. Ensure VS Code is up to date
-
-### Connection Issues
-
-If you can't connect to your z/TPF system:
-
-1. Verify network connectivity to the host
-2. Check firewall settings
-3. Confirm credentials are correct
-4. Review the [Configuration Guide](configuration.md)
-
-### Getting Help
-
-If you encounter issues:
-
-- Check the [GitHub Issues](https://github.com/JoshuaRichey/justthedocstemp/issues) page
-- Review existing issues or create a new one
-- Include VS Code version, extension version, and error logs
+2. Look for "IBM z/TPF Development" in the installed section
+3. Clicking the extension will open the extension page in an editor
+4. On the **Feature** tab in the opened editor, find the **Runtime Status** information.
 
 ---
 
 ## Updating the Extension
 
-The extension will automatically check for updates. To manually update:
+The extension will automatically check for updates from the configured marketplace (Visual Studio Code or OpenVSX).
 
-1. Open the **Extensions** view
-2. Find the z/TPF extension
-3. Click **Update** if available
-4. Reload VS Code when prompted
+Otherwise, you can manually update the extension by downloading a newer version of the `.vsix` file and installing using the instructions above.
 
 ---
 
@@ -130,10 +75,10 @@ The extension will automatically check for updates. To manually update:
 To remove the extension:
 
 1. Open the **Extensions** view
-2. Find the z/TPF extension
+2. Find the IBM z/TPF Development extension
 3. Click the gear icon
 4. Select **Uninstall**
-5. Reload VS Code when prompted
+5. Reload Visual Studio Code when prompted
 
 ---
 
