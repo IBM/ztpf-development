@@ -5,6 +5,7 @@ nav_order: 3
 ---
 
 # Getting Started with IBM z/TPF Development Extension
+{: .no_toc }
 
 This guide will help you get up and running with the IBM z/TPF Development Visual Studio Code Extension.
 
@@ -15,14 +16,11 @@ This guide assumes that:
 
 If you are using a different source control system or different pipeline commands, you will need to adjust the instructions accordingly.
 
-{: .no_toc }
-
 ## Table of Contents
-
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ---
 

@@ -5,11 +5,10 @@ nav_order: 5
 ---
 
 # Configuration Guide
+{: .no_toc }
 
 Learn how to configure the settings for the IBM z/TPF Development Visual Studio Code extension.
 Learn how to configure the project using the `maketpf` project configuration files.
-
-{: .no_toc }
 
 ## Table of Contents
 {: .no_toc .text-delta }

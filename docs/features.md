@@ -5,17 +5,15 @@ nav_order: 4
 ---
 
 # Features Overview
+{: .no_toc }
 
 Explore the features of the IBM z/TPF Development Visual Studio Code Extension.
 
-{: .no_toc }
-
 ## Table of Contents
-
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ---
 

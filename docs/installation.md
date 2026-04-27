@@ -5,10 +5,9 @@ nav_order: 2
 ---
 
 # Installation Guide
+{: .no_toc }
 
 This guide will walk you through installing the IBM z/TPF Development Visual Studio Code Extension.
-
-{: .no_toc }
 
 ## Table of Contents
 {: .no_toc .text-delta }
