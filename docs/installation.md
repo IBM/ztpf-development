@@ -83,6 +83,6 @@ To remove the extension:
 
 ## Next Steps
 
-- [Getting Started Guide](getting-started.md) - Learn the basics
-- [Configuration Guide](configuration.md) - Set up your environment
-- [Features Overview](features.md) - Explore capabilities
+- [Getting Started Guide](getting-started.html) - Learn the basics
+- [Configuration Guide](configuration.html) - Set up your environment
+- [Features Overview](features.html) - Explore capabilities

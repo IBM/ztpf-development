@@ -70,5 +70,5 @@ The extension includes new configuration options to the `maketpf.cfg` file to pe
 
 ## Next Steps
 
-- Review [Features](features.md) to explore capabilities
-- Check [Getting Started](getting-started.md) for usage examples
+- Review [Features](features.html) to explore capabilities
+- Check [Getting Started](getting-started.html) for usage examples

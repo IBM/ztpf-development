@@ -28,7 +28,7 @@ If you are using a different source control system or different pipeline command
 
 ### Step 1: Install the Extension
 
-If you haven't already, install the extension from the Visual Studio Code Marketplace. See the [Installation Guide](installation.md) for detailed instructions.
+If you haven't already, install the extension from the Visual Studio Code Marketplace. See the [Installation Guide](installation.html) for detailed instructions.
 
 ### Step 2: Setup Credentials
 
@@ -56,7 +56,7 @@ The recommended layout for your remote workspace is to closely mirror the local 
 
 ### Step 4: Configure the Extension Settings
 
-Review the [Configuration Guide](configuration.md) to configure the required extension settings.
+Review the [Configuration Guide](configuration.html) to configure the required extension settings.
 
 ### Step 5: Edit Your Code
 
@@ -104,5 +104,5 @@ Access these commands via the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`):
 
 Now that you're familiar with the basics:
 
-- Explore [Features](features.md) for advanced capabilities
-- Review [Configuration](configuration.md) for customization options
+- Explore [Features](features.html) for advanced capabilities
+- Review [Configuration](configuration.html) for customization options
